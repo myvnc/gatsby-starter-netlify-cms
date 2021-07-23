@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: The Business In Wireless World
+image: /img/forex-traing-wireless-world.jpg
+heading: Forex Trading for Beginners
+subheading: "Learn the essential basics of the forex trading & investment  "
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Forex Trading - Why Trade Forex?
+  description: The foreign exchange market takes place across different time zones
+    with major trading periods overlapping the other, making round-the-clock
+    trading possible at any given time. Forex trading operates 24 hours a day.
+    You can trade anytime and anywhere with access to the internet through any
+    internet-enabled device, be it your home computer or smartphone.
+description: Learn the essential basics of the forex trading/forex market, how
+  to make your first trade.
 intro:
   blurbs:
     - image: /img/coffee.png
