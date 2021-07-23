@@ -8,9 +8,9 @@ mainpitch:
   title: Forex Trading - Why Trade Forex?
   description: The foreign exchange market takes place across different time zones
     with major trading periods overlapping the other, making round-the-clock
-    trading possible at any given time. Forex trading operates 24 hours a day.
-    You can trade anytime and anywhere with access to the internet through any
-    internet-enabled device, be it your home computer or smartphone.
+    trading possible at any given time. **Forex trading operates 24 hours a
+    day.** You can trade anytime and anywhere with access to the internet
+    through any internet-enabled device, be it your home computer or smartphone.
 description: Learn the essential basics of the forex trading/forex market, how
   to make your first trade.
 intro:
