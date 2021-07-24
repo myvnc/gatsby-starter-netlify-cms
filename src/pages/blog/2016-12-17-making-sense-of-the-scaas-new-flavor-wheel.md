@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Hypochlorous acid (HClO) - All You Need To Know
-date: 2016-12-17T15:04:10.000Z
+date: 2020-12-12T15:04:10.000Z
 description: A slightly acidic Hypochlorous Acid which have a great power of
   sanitization by its strong oxidation. It was applied the nanotechnology to
   control the structure of water molecules and maintains high-concentration.
@@ -11,7 +11,7 @@ tags:
   - HCIO
   - K-clean
 ---
-![flavor wheel](/img/k-clean-次氯酸水.webp)
+![](/img/k-clean-次氯酸水.webp)
 
 <!--StartFragment-->
 
