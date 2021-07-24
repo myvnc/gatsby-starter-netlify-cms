@@ -1,19 +1,18 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Our Core Values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Cost Leadership
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+<!--StartFragment-->
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Consistently ultra-tight spreads are everything. The lower the spreads are, the more our clients can save on transaction costs. We are committed to continually driving down these costs to maximise your trading advantage.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Powerful Technology
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+<!--StartFragment-->
+
+Minimising the need to outsource services to third-party providers, our in-house developed technology gives us a vital advantage over most other online financial brokers. As a direct result, we have the capability and flexibility to deliver new products, services and technical enhancements quickly, and tailor our trading tools to suit the needs of our customers.
+
+<!--EndFragment-->
