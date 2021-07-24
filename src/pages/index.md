@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: The Business In Wireless World
-image: /img/forex-traing-wireless-world.jpg
+title: Business In Wireless World
+image: /img/forex-trading-business-wireless-world.jpg
 heading: Forex Trading for Beginners
-subheading: "Learn the essential basics of the forex trading & investment  "
+subheading: "Learn the essential basics of the trading & investment  "
 mainpitch:
   title: Forex Trading - Why Trade Forex?
   description: The foreign exchange market takes place across different time zones
