@@ -7,7 +7,7 @@ description: The US dollar is the base currency in foreign exchange exchanges
   transactions. It occupies a very important position in the international
   foreign exchange market.
 featuredpost: true
-featuredimage: /img/forex-trading-forex-trading-currency-usd.jpg
+featuredimage: /img/forex-trading-forex-trading-currency-usd-500x.jpg
 ---
 # **U.S. dollar**
 
@@ -22,7 +22,7 @@ Currency symbol: USD
 
 Currency carry: 1 USD = 100 cents (CENTS)
 
-![](/img/forex-trading-forex-trading-currency-usd.jpg)
+![](/img/forex-trading-forex-trading-currency-usd-500x.jpg)
 
 Denominations of banknotes: 1, 2, 5, 10, 20, 50, 100 yuan in seven types. Large-denomination banknotes of 500 and 1,000 yuan denominations were previously issued, but they are no longer in circulation. There are 1 point, 5 points, 10 points, 25 points, 50 points, etc. for tokens
 
@@ -31,7 +31,7 @@ Since 1913, the United States established the Federal Reserve System and issued 
 The Federal Reserve Bank is responsible for the specific issuance business. The US dollar is the base currency in foreign exchange exchanges and the main currency in international payments and foreign exchange transactions. It occupies a very important position in the international foreign exchange market.
 
 2. ***The U.S. dollar is also known as the "green back" <br>***
-   The earliest paper currency in the United States was approved for issuance by the "Continental Conference" of the coalition regime of 13 colonies, called "Continental Currency." In 1863, the Ministry of Finance was authorized to start issuing banknotes, printed on the back in green, which is called "green back" and is still in use today.
+   The earliest paper currency in the United States was approved for issuance by the "Continental Conference" of the coalition regime of 13 colonies, called "Continental Currency." In 1863, the Ministry of Finance was authorized to start issuing banknotes, printed on the back in green, which is called "green back" and is still in use today.<br>
 
 ### **(2) Description of the US dollar index**
 
@@ -100,8 +100,6 @@ Treasury: Ministry of Finance. The U.S. Treasury Department is responsible for i
 Fed Funds Rate Futures Contract: Fed Funds Rate Futures Contract. This contract value shows the market's expected value of the federal funds rate (related to the expiry date of the contract), and is the most direct measure of Fed policy.
 
 **3-month Eurodollar Futures Contract**: 3-month Eurodollar Futures Contract. Like the federal funds rate futures contract, the 3-month Eurodollar futures contract also has an impact on the 3-month Eurodollar deposits. For example, the interest rate difference between the 3-month Eurodollar futures contract and the 3-month European yen futures contract is the basic change that determines the future trend of USD/JPY.
-
-
 
 <!--StartFragment-->
 
