@@ -37,7 +37,6 @@ Risk-taking activities existed in prehistoric times. As far back as 3500 BC, the
 
 ## **Risk Management**
 
-
 As long as there is risk-taking behavior, there is a need for risk management, and there is a need to clearly measure risks. Although risk represents the probability of uncertainty and adverse events, insurance represents the benefits of adverse events. Thanks to insurance, the risk can be reduced to the extent that we feel acceptable, making us willing to engage in risky behaviors. In principle, the benefits provided by risk-bearing behavior do not come entirely from the risk initially assumed, but also include the risk management benefits provided by insurance means, so that the risk is not too high to prevent us from engaging in a certain behavior. The product guarantee is insurance. Observing the overview of second-hand cars is also insurance. The salesperson’s verbal promise is also insurance. Without insurance, people are willing to take less risk, making progress and development more difficult.
 
 Next, Pat Arbor explains how top traders take risk and manage risk. "I think that top traders must have a preference for stability, but this stability cannot be too high, because trading inevitably involves a certain degree of risk. A trader must have an ideal psychological structure, the ability to take risks, and Courage and psychological stability. I think that good traders should have a higher risk appetite than normal or ordinary traders. Therefore, the question is how to manage risk and how to cultivate self-discipline in risk management."
@@ -76,7 +75,6 @@ The use of spreads or hedging strategies as a means of risk control may not be s
 
 ## **Proper style**
 
-
 "You have to decide what type of trader you are: speculator, spread trader or short-term trader. You must find your own suitable trading style. Personally, I am a spread trader. In order to find the right trader Style, just look at where you are more profitable. Some people came to my office and said:'I am an outstanding trader.' I replied:'Yes.' They said:'I know how to proceed. Trading.' I still answered:'Yes.' They said:'I can predict the rise and fall of the market.' I still answered:'Yes, but the key is whether you can make money.'"
 
 "Our industry is different from other industries. You may be a very good writer, but there is no absolute objective judgment standard. Even if you make a lot of money, you may still be the worst writer in the world, although you can make money by writing, but It does not represent your success in the field of writing. However, in our industry, making money is the key, representing your level of excellence. You may be a good lawyer, but no one knows. You may win some reputation, but There is a direct measurement standard in our industry, and this is the key. So, I will say:'You are not a good trader because you are not making money.'"
@@ -84,7 +82,6 @@ The use of spreads or hedging strategies as a means of risk control may not be s
 Therefore, although hedging is an ideal way to manage risk, whether you should become a safe-haven trader depends entirely on whether your personality can make money through this method.
 
 ## **From small to big: step by step**
-
 
 In order to obtain the best trading results and long-term profits, trading should be done in a gradual and orderly manner. I have never seen any good trader who advocates crazy gambling to create spectacular home runs.
 
@@ -97,7 +94,6 @@ In order to obtain the best trading results and long-term profits, trading shoul
 "Not trading is a kind of self-discipline-a very important norm. Many people don't understand this. Many people think that you have to stand there all day and always have to stay in the market. In some cases, the market is very dull. If the liquidity is not good, you should not trade. In other cases, the market fluctuates very sharply and it is completely unreasonable, and you should not trade. Of course, the former situation is more common. In the absence of market conditions, some Short-term traders who grab the hat still insist on staying there. They set up positions just to pass the time, but it is easy to get in and out. I always advise them:'It should not be traded, there is no market. Take it easy and walk around , Go have a cup of coffee.'"
 
 ## **Categorically confess**
-
 
 For any trader, the most difficult part is often how to judge the right time to exit. Pat Arbor offers some suggestions to let you master these opportunities.
 
@@ -155,7 +151,7 @@ Want to try a [forex trading strategy](https://forex.z.com/hk/en/forex_trading)
 
 ![](https://forex-trading-z.netlify.app/img/z-com-forex-free-trading-demo-acc.jpg)
 
-
+<br><br>
 
 **Disclaimer:** *The author's remarks do not represent the position of any company. The forecasts and opinions expressed in this information are only general market comments and do not constitute investment opinions.*
 
